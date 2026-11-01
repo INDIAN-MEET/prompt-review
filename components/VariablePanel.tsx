@@ -118,3 +118,4 @@ export const VariablePanel: React.FC<VariablePanelProps> = ({
     </aside>
   );
 };
+

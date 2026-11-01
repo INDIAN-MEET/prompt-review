@@ -112,3 +112,4 @@ export function buildCommentsMap(comments: LineComment[]): Map<string, LineComme
   }
   return map;
 }
+

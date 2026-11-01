@@ -62,3 +62,4 @@ export interface GitHubFileResult {
   currentSha?: string;
   path: string;
 }
+

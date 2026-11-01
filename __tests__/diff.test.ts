@@ -110,3 +110,4 @@ describe('filterChangesOnly', () => {
     expect(hasChangedLine).toBe(true);
   });
 });
+

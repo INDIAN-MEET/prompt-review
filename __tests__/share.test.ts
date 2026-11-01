@@ -46,3 +46,4 @@ describe('share hash encoding and decoding', () => {
     expect(longResult.length).toBeGreaterThan(8000);
   });
 });
+

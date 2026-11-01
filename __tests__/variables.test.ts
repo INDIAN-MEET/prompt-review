@@ -151,3 +151,4 @@ describe('findMatchingDiffRowIndices for click-to-jump', () => {
     expect(rows[newMatches[0]].type).toBe('added');
   });
 });
+

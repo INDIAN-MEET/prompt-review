@@ -270,3 +270,4 @@ export const InputsPanel: React.FC<InputsPanelProps> = ({
     </section>
   );
 };
+

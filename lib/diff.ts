@@ -180,3 +180,4 @@ export function filterChangesOnly(rows: DiffRow[], contextLines: number = 2): Di
 
   return result;
 }
+
